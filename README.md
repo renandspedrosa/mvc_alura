@@ -1,2 +1,2 @@
 # MVC Alura
-Repositório para acompanhar curso do alura
+Repositório para acompanhar curso do alura.
